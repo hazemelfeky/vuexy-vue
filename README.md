@@ -1,19 +1,17 @@
-# vuexy
+# Vuexy Vue Project
+This is vue version of project
 
-## Project setup
-```
-npm install
-```
+## Features Developed
+1- Full Responsive
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2- Dark Mode
 
-### Compiles and minifies for production
-```
-npm run build
-```
+3- Cart
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4- Recursive Component (eCommerce)
+
+5- List Pagination
+
+6- Filters
+
+Link : https://jovial-kataifi-22e940.netlify.app/
